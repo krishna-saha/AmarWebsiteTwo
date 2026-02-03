@@ -1,0 +1,7 @@
+C:\Users\ERPMASTERING\source\repos\AmarWebsite_Code\obj\Release\net8.0\PubTmp\Out\AmarWebsite_Code.exe
+C:\Users\ERPMASTERING\source\repos\AmarWebsite_Code\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ERPMASTERING\source\repos\AmarWebsite_Code\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ERPMASTERING\source\repos\AmarWebsite_Code\obj\Release\net8.0\PubTmp\Out\AmarWebsite_Code.dll
+C:\Users\ERPMASTERING\source\repos\AmarWebsite_Code\obj\Release\net8.0\PubTmp\Out\AmarWebsite_Code.deps.json
+C:\Users\ERPMASTERING\source\repos\AmarWebsite_Code\obj\Release\net8.0\PubTmp\Out\AmarWebsite_Code.runtimeconfig.json
+C:\Users\ERPMASTERING\source\repos\AmarWebsite_Code\obj\Release\net8.0\PubTmp\Out\AmarWebsite_Code.pdb
